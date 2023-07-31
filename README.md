@@ -21,4 +21,4 @@ Python 3.8.5
 ## Uruchamianie
 W celu uruchomienia któregokolwiek z projektów należy pobrać repozytorium oraz poddać kompilacji pliki z rozszerzeniami .py.
 
-Instrukcje do projektów znajdują się w folderze tresciZadan.
+Instrukcje do projektów znajdują się w folderze instrukcjeDoZadan.
