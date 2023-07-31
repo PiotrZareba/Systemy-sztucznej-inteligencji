@@ -1,0 +1,5 @@
+sepal_lenght_in_cm r
+sepal_width_in_cm r
+peta_length_in_cm r
+petal_width_in_cm r
+class s
